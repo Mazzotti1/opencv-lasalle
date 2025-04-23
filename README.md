@@ -1,9 +1,17 @@
-# opencv-lasalle
+# Detecção da Letra A - ASL
 
-Gabriel Mazzotti de Souza |
-João Pedro Carneiro |
-João Vitor Nunes L.
+## Dataset
+- [American Sign Language Dataset](https://www.kaggle.com/datasets/ayuraj/asl-dataset)
 
-Problema: Tirar fundo preto das imagens
+## Mini problema
+Diferenciar a letra A de outras letras do alfabeto da Língua de Sinais Americana com base na forma da mão.
 
-[https://www.kaggle.com/datasets/devvratmathur/micro-expression-dataset-for-lie-detection](https://www.kaggle.com/datasets/ayuraj/asl-dataset)
+## Técnicas utilizadas
+- Redimensionamento + conversão para escala de cinza
+- Detecção de bordas com Canny
+- Comparação entre contornos usando shape matching do OpenCV
+
+## Membros
+- Gabriel Mazzotti de Souza
+- João Pedro Carneiro
+- João Vitor Nunes L.
