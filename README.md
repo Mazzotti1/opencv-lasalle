@@ -16,6 +16,7 @@ Diferenciar a letra A de outras letras do alfabeto da Língua de Sinais American
 - João Pedro Carneiro
 - João Vitor Nunes L.
 
-##Referencias
+## Referencias
 - https://www.geeksforgeeks.org/python-grayscaling-of-images-using-opencv/
 - https://stackoverflow.com/questions/74298528/how-to-use-canny-edge-detection-in-opencv-with-keeping-the-colored-image-python
+- https://stackoverflow.com/questions/55529371/opencv-shape-matching-between-two-similar-shapes
